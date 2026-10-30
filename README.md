@@ -55,7 +55,23 @@ For online play, open the game in two different browsers (or one normal window a
 
 ## 📸 Screenshots
 
-_Add screenshots here._
+## 📸 Screenshots
+
+### Themes
+
+| Neon | Space | Forest |
+|:---:|:---:|:---:|
+| ![Neon theme](screenshots/home-neon.png) | ![Space theme](screenshots/theme-space.png) | ![Forest theme](screenshots/theme-forest.png) |
+
+### Online multiplayer
+
+Two players in the same room, each on their own device, with live sync:
+
+![Online room](screenshots/online-room.png)
+
+Round result shown to both players:
+
+![Online result](screenshots/online-result.png)
 
 ## 🔮 Planned improvements
 
