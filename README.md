@@ -63,6 +63,9 @@ For online play, open the game in two different browsers (or one normal window a
 |:---:|:---:|:---:|
 | ![Neon theme](screenshots/home-neon.png) | ![Space theme](screenshots/theme-space.png) | ![Forest theme](screenshots/theme-forest.png) |
 
+### Leaderboard
+
+![Leaderboard](screenshots/leaderboard.png)
 ### Online multiplayer
 
 Two players in the same room, each on their own device, with live sync:
